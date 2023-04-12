@@ -1,0 +1,9 @@
+{
+	"name": "cube-refresh",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efbe0d64-5fe6-428a-89b1-c4517c3c3e49",
+		"tenantId": "6494460e-8600-4edc-850f-528e8faad290"
+	}
+}
